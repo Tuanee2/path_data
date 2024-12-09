@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/parallels/ros2_ws/install/my_demo/include/**",
+        "/home/parallels/ros2_ws/install/my_launch/include/**",
+        "/home/parallels/ros2_ws/install/opennav_docking_core/include/**",
+        "/home/parallels/ros2_ws/install/dwb_msgs/include/**",
+        "/home/parallels/ros2_ws/install/nav_2d_msgs/include/**",
+        "/home/parallels/ros2_ws/install/nav2_voxel_grid/include/**",
+        "/home/parallels/ros2_ws/install/nav2_msgs/include/**",
+        "/home/parallels/ros2_ws/install/my_rviz_plugin/include/**",
+        "/home/parallels/ros2_ws/install/my_plugin/include/**",
+        "/home/parallels/ros2_ws/install/custom_path/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
